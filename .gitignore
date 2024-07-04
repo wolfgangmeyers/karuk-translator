@@ -130,3 +130,4 @@ dist
 .pnp.*
 
 api-key.txt
+venv
